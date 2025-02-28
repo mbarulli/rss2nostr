@@ -9,10 +9,8 @@ You may not be aware, but you can already export most of the content you create 
 *   Most blog platforms allow users to make their content available as an RSS feed.
 *   Most bookmark services allow users to create an RSS feed from their bookmarks.
 *   Every podcast platforms generate an RSS feed for your show.
-*   ...
-More generally, there are plenty of third-party services (e.g. RSS.app, IFTTT, ...) that enable the creation of RSS feeds for almost everything social media feeds, job listings, events, etc.
 
-    
+More generally, there are plenty of third-party services (e.g. RSS.app, IFTTT, ...) that enable the creation of RSS feeds for almost everything: social media feeds, job listings, events, etc.
 
 On the other hand, Nostr is poised to become the new web infrastructure. It will dismantle the walled gardens we've been living in for too long and is already shaping an ecosystem of decentralized apps that will gradually replace centralized ones, one by one.
 
