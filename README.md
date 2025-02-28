@@ -16,6 +16,10 @@ On the other hand, Nostr is poised to become the new web infrastructure. It will
 
 Connecting RSS and Nostr is obviously a necessary step to accelerate the transition toward this new web powered by Nostr.
 
+Applications are countless! Given the right tools, Nostr creators (that is everyone) could assemble RSS items into completely new "products".
+
+E.g.: a Nostr-powered website that combines long-form articles about a certain industry with a selection of curated news, events, and job postings, from that same industry, imported from external RSS feeds.
+
 ### rss2nostr capabilities
 
 rss2nostr should be able to accommodate the diverse needs of users and support various RSS feed variants. To achieve this, users can configure the behavior of rss2nostr in several ways. Here are some examples:
