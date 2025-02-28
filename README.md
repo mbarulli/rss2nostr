@@ -14,7 +14,7 @@ More generally, there are plenty of third-party services (e.g. RSS.app, IFTTT, .
 
 On the other hand, Nostr is poised to become the new web infrastructure. It will dismantle the walled gardens we've been living in for too long and is already shaping an ecosystem of decentralized apps that will gradually replace centralized ones, one by one.
 
-Connecting RSS and Nostr is obviously a necessary step to accelerate the transition toward this new web powered by Nostr.
+One day you will be able to natively create all of your content right within Nostr. In the meantime, connecting RSS and Nostr is a necessary step to accelerate the transition toward this new web powered by Nostr.
 
 Applications are countless! Given the right tools, Nostr creators (that is everyone) could assemble RSS items into completely new "products".
 
@@ -46,5 +46,4 @@ Any contribution will be much appreciated, thanks!
 
 This financial resources will be used
 *   to attract and compensate the best Nostr developers
-*   pay for the initial hosting costs of the rss2nostr web app  
-    (hopefully, zaps from users will be sufficient to sustain the service)
+*   pay for the initial hosting costs of the rss2nostr web app
