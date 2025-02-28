@@ -32,14 +32,13 @@ To achieve this, we should aim to create a web app that allows users to:
 *   Submit the RSS feed they want to convert into a stream of Nostr events
 *   Specify the Nostr profile they would like to publish the events to
 *   Define rules and parameters for converting RSS items into Nostr events
-    
 
 Furthermore, using a liberal open-source license may enable the development of competing web apps.
 
 ### Support this project
 
-Just head over to the Geyser page for rss2nostr.
-Any contribution will be much appreciated!
+Just head over to the [Geyser page for rss2nostr](https://geyser.fund/project/rss2nostr).
+Any contribution will be much appreciated, thanks!
 
 This financial resources will be used
 *   to attract and compensate the best Nostr developers
