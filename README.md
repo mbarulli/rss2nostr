@@ -9,16 +9,17 @@ You may not be aware, but you can already export most of the content you create 
 *   Most blog platforms allow users to make their content available as an RSS feed.
 *   Most bookmark services allow users to create an RSS feed from their bookmarks.
 *   Every podcast platforms generate an RSS feed for your show.
+*   Even YouTube channels have their own RSS feed (well hidden, but still there!).
 
-More generally, there are plenty of third-party services (e.g. RSS.app, IFTTT, ...) that enable the creation of RSS feeds for almost everything: social media feeds, job listings, events, etc.
+Moreover, there are plenty of third-party services (e.g. RSS.app, IFTTT, ...) that enable the creation of RSS feeds for almost everything: social media accounts, job listings, events, etc.
 
 On the other hand, Nostr is poised to become the new web infrastructure. It will dismantle the walled gardens we've been living in for too long and is already shaping an ecosystem of decentralized apps that will gradually replace centralized ones, one by one.
 
-One day you will be able to natively create all of your content right within Nostr. In the meantime, connecting RSS and Nostr is a necessary step to accelerate the transition toward this new web powered by Nostr.
+One day, you will be able to create all of your content natively within Nostr. In the meantime, connecting RSS and Nostr is a necessary step to accelerate the transition toward this new web powered by Nostr.
 
-Applications are countless! Given the right tools, Nostr creators (that is everyone) could assemble RSS items into completely new "products".
+Applications are countless! Given the right tools, Nostr creators (that is everyone) could assemble RSS items from a variety of feeds into completely new "products".
 
-E.g.: a Nostr-powered website that combines long-form articles about a certain industry with a selection of curated news, events, and job postings, from that same industry, imported from external RSS feeds.
+E.g.: a Nostr-powered website that combines original long-form articles about a certain industry with a selection of curated news, events, and job postings, from that same industry, imported from external RSS feeds.
 
 ### rss2nostr capabilities
 
