@@ -45,6 +45,6 @@ Furthermore, using a liberal open-source license may enable the development of c
 Just head over to the [Geyser page for rss2nostr](https://geyser.fund/project/rss2nostr).
 Any contribution will be much appreciated, thanks!
 
-This financial resources will be used
-*   to attract and compensate the best Nostr developers
+This financial resources will be used to:
+*   attract and compensate developers
 *   pay for the initial hosting costs of the rss2nostr web app
